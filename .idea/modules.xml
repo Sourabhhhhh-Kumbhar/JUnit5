@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/JUnit5.iml" filepath="$PROJECT_DIR$/.idea/JUnit5.iml" />
       <module fileurl="file://$PROJECT_DIR$/ProjectCalc/ProjectCalc.iml" filepath="$PROJECT_DIR$/ProjectCalc/ProjectCalc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WihoutJUnit5/WihoutJUnit5.iml" filepath="$PROJECT_DIR$/WihoutJUnit5/WihoutJUnit5.iml" />
     </modules>
   </component>
 </project>
